@@ -21,7 +21,8 @@ Luxar is an app that allows users to browse movies from the [The Movie Database 
 
 ### App Walkthough GIF
 
-<img src="https://github.com/ovezovs/Luxar/blob/master/LuxarDemo2.gif" width=250><br>
+<img src="https://github.com/ovezovs/Luxar/blob/master/LuxarDemo2.gif" width=500><br>
+
 
 ## Luxar Part 1
 
