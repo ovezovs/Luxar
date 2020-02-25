@@ -1,8 +1,6 @@
 # Project Name: *Luxar*
 Luxar is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-## Luxar Part 2
-
 ### User Stories
 
 - [x] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
